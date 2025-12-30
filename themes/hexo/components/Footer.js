@@ -1,6 +1,6 @@
 import { BeiAnGongAn } from '@/components/BeiAnGongAn'
 import BeiAnSite from '@/components/BeiAnSite'
-import PoweredBy from '@/components/PoweredBy'
+// 注释掉import PoweredBy from '@/components/PoweredBy'
 import { siteConfig } from '@/lib/config'
 
 const Footer = ({ title }) => {
