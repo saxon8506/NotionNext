@@ -356,12 +356,12 @@ const CONFIG = {
   STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
 
   // 404页面的提示语
-  STARTER_404_TITLE: '我们似乎找不到您要找的页面。',
-  STARTER_404_TEXT: '抱歉！您要查找的页面不存在。可能已经移动或删除。',
-  STARTER_404_BACK: '回到主页',
+  STARTER_404_TITLE: 'Page not found',
+  STARTER_404_TEXT: 'Oops! This page seems to be missing.',
+  STARTER_404_BACK: 'Back to Home',
 
   // 页面底部的行动呼吁模块
-  STARTER_CTA_ENABLE: true,
+  STARTER_CTA_ENABLE: false,
   STARTER_CTA_TITLE: '你还在等待什么呢？',
   STARTER_CTA_TITLE_2: '现在开始吧',
   STARTER_CTA_DESCRIPTION:
