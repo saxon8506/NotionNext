@@ -39,25 +39,25 @@ const CONFIG = {
     'We sell hardwares over different countries as a “value” oriented Manufacturer-Distributor of High quality architectural hardware. While balancing the quality and competitive pricing, we also keep a high level of customer service. ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: 'Precision Engineering & Durability', // 特性1
-  STARTER_FEATURE_1_TEXT_1: 'In the world of hardware, precision is the foundation of quality. Our hinges are manufactured using advanced automated production lines and high-precision stamping technology to ensure every component meets exact specifications. We focus on the "silent life" of the product, utilizing rigorous cycle-testing—often exceeding 50,000 to 100,000 openings and closings. This ensures that our hinges provide smooth, noise-free operation and consistent tension over years of heavy use, making them the reliable choice for high-end cabinetry and industrial applications.', // 特性1
-  STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_TEXT_1: 'We implement a rigorous multi-stage inspection process to ensure every hinge meets exacting standards. Utilizing high-precision automated production lines, we maintain strict tolerances and structural integrity. Each batch undergoes 50,000+ cycle tests and salt spray testing, guaranteeing smooth operation and long-term durability in any environment.', // 特性1
+  STARTER_FEATURE_1_BUTTON_TEXT: '', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: '', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: 'Superior Material Integrity', // 特性2
-  STARTER_FEATURE_2_TEXT_1: 'We believe that a hinge is only as good as the steel it is made from. Our factory sources high-grade cold-rolled steel and premium stainless steel (such as SUS304) to ensure maximum load-bearing capacity and structural stability. To combat environmental wear, we apply multi-layer electroplating and eco-friendly anti-rust coatings. These treatments pass intensive salt spray tests, ensuring that our products remain corrosion-resistant even in humid kitchens or coastal environments, maintaining their aesthetic finish and functional integrity for a lifetime.', // 特性2
-  STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
+  STARTER_FEATURE_2_TEXT_1: 'Our hinges are forged from high-grade cold-rolled steel or premium stainless steel, providing exceptional load-bearing capacity. We utilize advanced electroplating and anti-oxidation coatings to prevent rust and corrosion. This commitment to material excellence ensures our products maintain their aesthetic finish and functional strength for decades.', // 特性2
+  STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+    '', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: 'Customization & OEM/ODM', // 特性3
-  STARTER_FEATURE_3_TEXT_1: 'Every market has unique requirements, and our factory is built for flexibility. Beyond our standard product line, we offer robust OEM and ODM services to help you stay competitive. Our in-house R&D team works closely with clients to develop custom hole patterns, specialized finishes (like matte black or antique brass), and unique soft-close mechanisms. Whether you need custom branding on the hinge cups or a completely new structural design, we provide the technical expertise to turn your concepts into market-ready products.', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_TEXT_1: 'Recognizing that every project is unique, we offer flexible OEM and ODM services to meet specific design requirements. Our R&D team works closely with clients to develop custom sizes, finishes, and soft-close mechanisms. We transform your concepts into market-ready hardware solutions with rapid prototyping and scalable production.', // 特性3
+  STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: '', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: 'End-to-End Support', // 特性4
-  STARTER_FEATURE_4_TEXT_1: 'Our relationship with clients does not end at the shipping dock; it begins there. We provide a comprehensive service ecosystem that includes real-time quality inspection reports, transparent lead-time tracking, and a dedicated after-sales technical team. If any installation challenges or quality concerns arise, we offer rapid-response troubleshooting and replacement guarantees. By providing marketing assets like high-resolution imagery and technical installation guides, we empower our partners to sell with confidence and peace of mind.', // 特性4
-  STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_TITLE_1: 'After-Sales & Warranty', // 特性4
+  STARTER_FEATURE_4_TEXT_1: 'We stand firmly behind our products with a proactive after-sales service system. From technical installation guidance to a hassle-free replacement warranty, we prioritize customer peace of mind. Our dedicated support team responds to inquiries within 24 hours, ensuring that any operational issues are resolved swiftly and professionally.', // 特性4
+  STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: '', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
