@@ -49,12 +49,12 @@ const CONFIG = {
   STARTER_FEATURE_2_BUTTON_URL:
     'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: 'Tailored Customization & OEM/ODM', // 特性3
+  STARTER_FEATURE_3_TITLE_1: 'Customization & OEM/ODM', // 特性3
   STARTER_FEATURE_3_TEXT_1: 'Every market has unique requirements, and our factory is built for flexibility. Beyond our standard product line, we offer robust OEM and ODM services to help you stay competitive. Our in-house R&D team works closely with clients to develop custom hole patterns, specialized finishes (like matte black or antique brass), and unique soft-close mechanisms. Whether you need custom branding on the hinge cups or a completely new structural design, we provide the technical expertise to turn your concepts into market-ready products.', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: 'End-to-End Professional Support', // 特性4
+  STARTER_FEATURE_4_TITLE_1: 'End-to-End Support', // 特性4
   STARTER_FEATURE_4_TEXT_1: 'Our relationship with clients does not end at the shipping dock; it begins there. We provide a comprehensive service ecosystem that includes real-time quality inspection reports, transparent lead-time tracking, and a dedicated after-sales technical team. If any installation challenges or quality concerns arise, we offer rapid-response troubleshooting and replacement guarantees. By providing marketing assets like high-resolution imagery and technical installation guides, we empower our partners to sell with confidence and peace of mind.', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
