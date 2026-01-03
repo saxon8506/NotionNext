@@ -15,7 +15,7 @@ const CONFIG = {
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: 'Brochure ', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    '/pages/brochure', // 英雄区按钮
+    '/article/brochure', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: 'Follow US', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://www.facebook.com/ofhardware', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
@@ -25,11 +25,11 @@ const CONFIG = {
   STARTER_HERO_BANNER_IMAGE: '', // hero区下方的全宽图
 
   // 顶部右侧导航暗流
-  STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
-  STARTER_NAV_BUTTON_1_URL: '/sign-in',
+  STARTER_NAV_BUTTON_1_TEXT: '',
+  STARTER_NAV_BUTTON_1_URL: '',
 
-  STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
-  STARTER_NAV_BUTTON_2_URL: '/sign-up',
+  STARTER_NAV_BUTTON_2_TEXT: '',
+  STARTER_NAV_BUTTON_2_URL: '',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
