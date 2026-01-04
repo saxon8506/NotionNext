@@ -300,27 +300,27 @@ const CONFIG = {
       TITLE: 'Company',
       LINK_GROUP: [
         { TITLE: 'Home', URL: '/#home' },
-        { TITLE: 'Brochure', URL: '/brochure' },
+        { TITLE: 'News', URL: '/archive' },
         {
-          TITLE: 'News',
-          URL: '/archive'
+          TITLE: '中文',
+          URL: '/cnindex'
         }
       ]
-    }
-//    {
-//      TITLE: '功能特性',
-//      LINK_GROUP: [
-//        {
-//          TITLE: '部署指南',
-//          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
-//        },
+    },
+    {
+      TITLE: 'Product',
+      LINK_GROUP: [
+        {
+          TITLE: 'Brochure',
+          URL: '/brochure'
+        },
 //        {
 //          TITLE: '升级指南',
 //          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
 //        },
 //        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
-//      ]
-//    },
+      ]
+    }
 //    {
 //      TITLE: 'Notion写作',
 //      LINK_GROUP: [
