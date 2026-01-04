@@ -131,47 +131,47 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '很喜欢这个主题，本代码小白用三天台风假期搭建出来了，还根据大佬的教程弄了自定义域名，十分感谢，已请喝咖啡~',
+        'Impressive lead times and excellent customer service! As a large-scale furniture manufacturer, we need a consistent supply. Their hinges are precision-engineered and arrive on schedule every time. The team is professional and always goes the extra mile to meet our specific technical requirements.',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
+        '/images/starter/about/feedback2.jpg',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Customer B',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Furniture Manufacturer',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '呜呜呜，经过一个下午的努力，终于把博客部署好啦，非常感谢Tangly1024大佬的框架和教程，这是我有生之年用过的最好用的博客框架┭┮﹏┭┮。从今之后，我就可以在自己的博客里bb啦，( •̀ ω •́ )y ',
+        'We switched to this factory for our commercial door line, and the results have been fantastic. Their hinges offer the perfect balance of competitive pricing and industrial-grade strength. Our retail clients have noted the improved sturdiness. We highly recommend them to any global distributor.',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '且听风吟 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.dwind.top/'
+        '/images/starter/about/feedback3.jpg',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Customer C',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Hardware Wholesaler',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '感谢提供这么好的项目哈哈 之前一直不知道怎么部署(别的项目好难好复杂)这个相对非常简单 新手非常友好哦',
+        'Detail matters in our custom home builds, and these hinges deliver. The precision in the screw holes and the silent operation are exactly what we look for. They provide a premium feel that elevates the entire room's aesthetic. We will definitely continue our long-term partnership.',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: '迪升disheng ',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'AI资源分享 Blog',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.disheng.org/'
+        '/images/starter/about/feedback4.jpg',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Customer D',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Interior Design Firm',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '灰常感谢大佬的博客项目，能将博客和notion结合起来，这一直是我挺期待的博客模式。',
+        'Reliable international shipping and top-tier product quality. We’ve ordered thousands of hinges for our overseas network, and the feedback has been 100% positive. The stainless steel finish is highly corrosion-resistant and looks great. A fantastic choice for anyone seeking a professional OEM manufacturer.',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafb21381-f51b-4fd0-9998-800dbeb64dbe%2Favatar.png?table=block&id=195935d2-0d8d-49fc-bd81-1db42ee50840&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'AnJhon',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Anjhon`s Blog 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.anjhon.top'
+        '/images/starter/about/feedback5.jpg',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Customer E',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'International Trading Company',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
-      STARTER_TESTIMONIALS_ITEM_TEXT: '用好久了，太感谢了',
+      STARTER_TESTIMONIALS_ITEM_TEXT: 'These hinges are a dream for our installation teams. The alignment is consistently perfect, which reduces our labor time significantly. We’ve tested many suppliers, but the build quality and structural integrity here are superior. They are now our exclusive hinge provider for all upcoming projects.',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe4f391d7-7d65-4c05-a82c-c6e2c40f06e4%2Fa2a7641a26b367608c6ef28ce9b7e983_(2).png?table=block&id=a386eb0e-4c07-4b18-9ece-bba4e79ce21c&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'LUCEN',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'LUCEN考验辅导 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.lucenczz.top/'
+        '/images/starter/about/feedback6.jpg',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Customer F',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Engineering & Installation',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     }
   ],
 
