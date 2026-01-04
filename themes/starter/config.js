@@ -149,7 +149,7 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'Detail matters in our custom home builds, and these hinges deliver. The precision in the screw holes and the silent operation are exactly what we look for. They provide a premium feel that elevates the entire room's aesthetic. We will definitely continue our long-term partnership.',
+        'Detail matters in our custom home builds, and these hinges deliver. The precision in the screw holes and the silent operation are exactly what we look for. They provide a premium feel that elevates the entire room aesthetic. We will definitely continue our long-term partnership.',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         '/images/starter/about/feedback4.jpg',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Customer D',
@@ -166,7 +166,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
-      STARTER_TESTIMONIALS_ITEM_TEXT: 'These hinges are a dream for our installation teams. The alignment is consistently perfect, which reduces our labor time significantly. We’ve tested many suppliers, but the build quality and structural integrity here are superior. They are now our exclusive hinge provider for all upcoming projects.',
+      STARTER_TESTIMONIALS_ITEM_TEXT: 'These hinges are a dream for our installation teams. The alignment is consistently perfect, which reduces our labor time significantly. We have tested many suppliers, but the build quality and structural integrity here are superior. They are now our exclusive hinge provider for all upcoming projects.',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         '/images/starter/about/feedback6.jpg',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Customer F',
