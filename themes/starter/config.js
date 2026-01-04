@@ -303,7 +303,7 @@ const CONFIG = {
         { TITLE: 'News', URL: '/archive' },
         {
           TITLE: '中文',
-          URL: '/cnindex'
+          URL: '/article/cnindex'
         }
       ]
     },
