@@ -28,8 +28,8 @@ const CONFIG = {
   STARTER_NAV_BUTTON_1_TEXT: '',
   STARTER_NAV_BUTTON_1_URL: '',
 
-  STARTER_NAV_BUTTON_2_TEXT: '',
-  STARTER_NAV_BUTTON_2_URL: '',
+  STARTER_NAV_BUTTON_2_TEXT: 'Contact US',
+  STARTER_NAV_BUTTON_2_URL: '/article/contact',
   
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
