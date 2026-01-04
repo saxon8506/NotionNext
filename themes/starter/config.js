@@ -240,7 +240,7 @@ const CONFIG = {
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
   STARTER_CONTACT_TITLE: 'Contact US',
-  STARTER_CONTACT_TEXT: 'Have questions or want to discuss a project? Contact US!',
+  STARTER_CONTACT_TEXT: 'Have questions? Contact US!',
   STARTER_CONTACT_LOCATION_TITLE: 'Our Location',
   STARTER_CONTACT_LOCATION_TEXT: 'Zhejiang, China',
   STARTER_CONTACT_EMAIL_TITLE: 'Contact US',
@@ -299,32 +299,28 @@ const CONFIG = {
     {
       TITLE: 'Company',
       LINK_GROUP: [
-        { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: 'Home', URL: '/#home' },
+        { TITLE: 'Brochure', URL: '/brochure' },
         {
-          TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
-        },
-        {
-          TITLE: '合作申请',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          TITLE: 'News',
+          URL: '/archive'
         }
       ]
-    },
-    {
-      TITLE: '功能特性',
-      LINK_GROUP: [
-        {
-          TITLE: '部署指南',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
-        },
-        {
-          TITLE: '升级指南',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
-        },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
-      ]
-    },
+    }
+//    {
+//      TITLE: '功能特性',
+//      LINK_GROUP: [
+//        {
+//          TITLE: '部署指南',
+//          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+//        },
+//        {
+//          TITLE: '升级指南',
+//          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+//        },
+//        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+//      ]
+//    },
 //    {
 //      TITLE: 'Notion写作',
 //      LINK_GROUP: [
