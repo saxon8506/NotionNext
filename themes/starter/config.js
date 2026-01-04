@@ -177,28 +177,28 @@ const CONFIG = {
 
   //   FAQ 常见问题模块
   STARTER_FAQ_ENABLE: true, // 常见问题模块开关
-  STARTER_FAQ_TITLE: '常见问题解答',
-  STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
-  STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
+  STARTER_FAQ_TITLE: 'Q&A',
+  STARTER_FAQ_TEXT_1: 'Frequently asked questions',
+  STARTER_FAQ_TEXT_2: 'Ask us anything about our brand and products, and get factual responses.',
 
-  STARTER_FAQ_1_QUESTION: 'NotionNext有帮助文档吗？',
+  STARTER_FAQ_1_QUESTION: 'Which shipping methods do you support, and do you handle export documentation?',
   STARTER_FAQ_1_ANSWER:
-    'NotionNext提供了<a href="https://docs.tangly1024.com/about" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署',
+    'We support sea freight (FCL/LCL), air freight, and express delivery (DHL/FedEx/UPS). We are experienced in international trade and provide all necessary export documents, including Commercial Invoices, Packing Lists, Certificates of Origin, and any other specific documents required for your country customs clearance.',
 
-  STARTER_FAQ_2_QUESTION: '部署后要如何编写文章？',
+  STARTER_FAQ_2_QUESTION: 'Can I request samples before placing a bulk order?',
   STARTER_FAQ_2_ANSWER:
-    '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《帮助文档》</a>',
+    'Yes, we encourage customers to test our quality first. We provide free samples for our standard hinge models. Typically, the buyer only needs to cover the international express shipping cost, which can be deducted from your first formal mass-production order.',
 
-  STARTER_FAQ_3_QUESTION: '站点部署失败，更新失败？',
+  STARTER_FAQ_3_QUESTION: 'Do you offer OEM or ODM services?',
   STARTER_FAQ_3_ANSWER:
-    '通常是配置修改错误导致，请检查配置或者重试操作步骤，或者通过Vercel后台的Deployments中找到错误日志，并向网友求助',
+    'Absolutely. As a professional hardware manufacturer, we provide full OEM and ODM services. We can laser-etch your logo on the hinges, design custom packaging, or even develop new molds based on your specific technical drawings or samples to meet your local market demands.',
 
-  STARTER_FAQ_4_QUESTION: '文章没有实时同步？',
+  STARTER_FAQ_4_QUESTION: 'How do you ensure the quality and durability of your door hinges?',
   STARTER_FAQ_4_ANSWER:
-    '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
+    'Quality is our priority. Our hinges undergo rigorous testing, including salt spray tests (for corrosion resistance) and cycle tests (up to 200,000 openings/closings). We follow ISO9001 standards, and every batch is inspected before shipment to ensure finish consistency and structural integrity.',
 
   // 团队成员区块
-  STARTER_TEAM_ENABLE: true, // 团队成员区块开关
+  STARTER_TEAM_ENABLE: false, // 团队成员区块开关
   STARTER_TEAM_TITLE: '团队成员',
   STARTER_TEAM_TEXT_1: '我们的开发者团队',
   STARTER_TEAM_TEXT_2:
