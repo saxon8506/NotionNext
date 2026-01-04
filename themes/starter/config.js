@@ -181,9 +181,9 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: 'Frequently asked questions',
   STARTER_FAQ_TEXT_2: 'Ask us anything about our brand and products, and get factual responses.',
 
-  STARTER_FAQ_1_QUESTION: 'Which shipping methods do you support, and do you handle export documentation?',
+  STARTER_FAQ_1_QUESTION: 'Which shipping methods do you support?',
   STARTER_FAQ_1_ANSWER:
-    'We support sea freight (FCL/LCL), air freight, and express delivery (DHL/FedEx/UPS). We are experienced in international trade and provide all necessary export documents, including Commercial Invoices, Packing Lists, Certificates of Origin, and any other specific documents required for your country customs clearance.',
+    'We support sea freight (FCL/LCL), air freight, and express delivery (DHL/FedEx/UPS). We are experienced in international trade and provide all necessary export documents.',
 
   STARTER_FAQ_2_QUESTION: 'Can I request samples before placing a bulk order?',
   STARTER_FAQ_2_ANSWER:
@@ -240,7 +240,7 @@ const CONFIG = {
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
   STARTER_CONTACT_TITLE: 'Contact US',
-  STARTER_CONTACT_TEXT: 'Have questions or want to discuss a project? Reach out, and let us craft the perfect solution with our and services.',
+  STARTER_CONTACT_TEXT: 'Have questions or want to discuss a project? Contact US!',
   STARTER_CONTACT_LOCATION_TITLE: 'Our Location',
   STARTER_CONTACT_LOCATION_TEXT: 'Zhejiang, China',
   STARTER_CONTACT_EMAIL_TITLE: 'Contact US',
