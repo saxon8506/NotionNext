@@ -11,7 +11,7 @@ export default function PoweredBy(props) {
       <a
         href=''
         className='underline justify-start'>
-        Inno4AI
+        Inno4AI {siteConfig('VERSION')}
       </a>
       .
     </div>
