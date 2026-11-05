@@ -1,0 +1,10 @@
+# 2026-11 slug 规范化：旧链接 301 到新 slug
+# 格式：旧路径  新路径  状态码
+/article/ms-d35aa310                            /article/anthropic-rsi-warning           301
+/article/ms-73dacf72                            /article/apple-ceo-ai-for-ai-sake        301
+/article/ms-ef79d595                            /article/croydon-arsenic-1928            301
+/article/40997a38-0bdb-8199-a108-cc5b11c01d4c    /article/columbus-not-who-arrived-first  301
+/article/40997a38-0bdb-81f4-b284-d8647ef4621d    /article/gold-theft-moonlight            301
+/article/ai-agent-mouse-surgey                   /article/ai-agent-mouse-surgery          301
+/article/AI-PACs-spent-millions                  /article/ai-pacs-spent-millions          301
+/article/Anthropic-flashprove                    /article/anthropic-flashprove            301
