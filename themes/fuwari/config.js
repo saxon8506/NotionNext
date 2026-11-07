@@ -26,7 +26,7 @@ const CONFIG = {
   /** 是否显示右侧封面图区域 */
   FUWARI_POST_LIST_COVER: true,
   /** 无文章封面时，是否用站点横幅图（HOME_BANNER_IMAGE）作默认图 */
-  FUWARI_POST_LIST_COVER_DEFAULT: false,
+  FUWARI_POST_LIST_COVER_DEFAULT: true,
   /** 封面悬停轻微放大 */
   FUWARI_POST_LIST_COVER_HOVER_ENLARGE: true,
   /** 显示摘要（有 summary 时） */
@@ -72,7 +72,7 @@ const CONFIG = {
   /** 侧栏头像/昵称下的「个人页」链接路径 */
   FUWARI_PROFILE_PATH: '/about',
   /** 联系/社群入口卡片 */
-  FUWARI_WIDGET_CONTACT: true,
+  FUWARI_WIDGET_CONTACT: false,
   /** 侧栏广告位总开关 */
   FUWARI_WIDGET_AD: false,
   /** 侧栏广告位内：是否渲染 WWAds */
@@ -130,7 +130,7 @@ const CONFIG = {
   // 文章页
   // ---------------------------------------------------------------------------
   /** 有 Notion 封面时，在详情页文章卡片内顶部展示封面图（object-cover，不占满屏） */
-  FUWARI_ARTICLE_COVER_HERO: false,
+  FUWARI_ARTICLE_COVER_HERO: true,
   /** 文首：日期、分类、标签等元信息 */
   FUWARI_ARTICLE_META: true,
   /** 分享条 */
