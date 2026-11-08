@@ -260,7 +260,16 @@ const nextConfig = {
           source: '/feed',
           destination: '/rss/feed.xml',
           permanent: true
-        }
+        },
+        // 2026-11 slug 规范化：旧链接 301 到新 slug（public/_redirects 在 Vercel 上不生效）
+        { source: '/article/ms-d35aa310', destination: '/article/anthropic-rsi-warning', statusCode: 301 },
+        { source: '/article/ms-73dacf72', destination: '/article/apple-ceo-ai-for-ai-sake', statusCode: 301 },
+        { source: '/article/ms-ef79d595', destination: '/article/croydon-arsenic-1928', statusCode: 301 },
+        { source: '/article/40997a38-0bdb-8199-a108-cc5b11c01d4c', destination: '/article/columbus-not-who-arrived-first', statusCode: 301 },
+        { source: '/article/40997a38-0bdb-81f4-b284-d8647ef4621d', destination: '/article/gold-theft-moonlight', statusCode: 301 },
+        { source: '/article/ai-agent-mouse-surgey', destination: '/article/ai-agent-mouse-surgery', statusCode: 301 },
+        { source: '/article/AI-PACs-spent-millions', destination: '/article/ai-pacs-spent-millions', statusCode: 301 },
+        { source: '/article/Anthropic-flashprove', destination: '/article/anthropic-flashprove', statusCode: 301 }
       ]
     },
   // 重写url
